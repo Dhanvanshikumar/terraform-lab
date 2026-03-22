@@ -1,0 +1,3 @@
+variable "message" {
+  type = string
+}
